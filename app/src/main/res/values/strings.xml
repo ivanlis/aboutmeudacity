@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">About Me</string>
+    <string name="name">Ivan Lis</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Ivan.
+        \n\nI’m the developer of this wonderful app.
+        \n\nMaybe, it’s too simple, but so far, so good.
+        \n\nI promise you, my next app will do more things.
+        \n\nThe goal of writing this quite a long text is to observe
+        how it’s displayed on the scroll view.
+        \n\nA month ago I visited Córdoba. It’s an amazing city!
+        \n\nRecently I went to Lisbon, and that city is incredible as well!
+        \n\nIf everything goes well, in two weeks I’ll travel to Palencia.
+        I guess Palencia is a quieter place, with almost no tourists, although,
+        perhaps, I’m mistaken.
+        \n\nA trip is always a surprise, so let’s see.
+        Anyway, it should be a great time.
+        \n\nThanks. Bye!\n\n
+    </string>
 </resources>
